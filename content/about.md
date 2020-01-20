@@ -21,7 +21,7 @@ here's my TLDR, but feel free to keep scrolling if you're curious.
 
 # Programming Languages
 
-I 95% (more or less) self-taught when it comes to programming, so there is still
+I'm 95% (more or less) self-taught when it comes to programming, so there is still
 a lot I have to learn. Nevertheless, the languages I have experience with are rated
 from highest to lowest for anyone who's curious.
 
