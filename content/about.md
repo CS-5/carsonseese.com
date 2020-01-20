@@ -16,7 +16,7 @@ here's my TLDR, but feel free to keep scrolling if you're curious.
 - CompTIA A+, Network+, and Security+ Certified
 - [Co-Presented at BSides DC 2019 _"Hands on Writing Malware in Go"_](https://gist.github.com/CS-5/c251f173e1e8ddd46c1b020427cb239b)
 - Operate my own homelab currently residing in my parent's basement
-- Alumna and Mentor of [FIRST Robotics Competition team: "Biohazard"](https://biohazard4050.org)
+- Alumnus and Mentor of [FIRST Robotics Competition team: "Biohazard"](https://biohazard4050.org)
 - Check me out on [GitHub](https://github.com/CS-5), [LinkedIn](https://www.linkedin.com/in/carsonseese/), or [Twitter](https://twitter.com/carsons_5)
 
 # Programming Languages
