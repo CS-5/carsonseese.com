@@ -28,7 +28,7 @@ disablePathToLower = true
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-#    footercontent = ""
+    #footercontent = ""
 
     hidecredits = true
     hidecopyright = false
@@ -36,7 +36,8 @@ disablePathToLower = true
     rtl = false
 
     math = false
-#    custom_css = 
+    #custom_css = ["css/custom.css"]
+
 
 # Social links
 [[params.social]]
