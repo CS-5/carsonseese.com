@@ -13,13 +13,13 @@ pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-37159206-9"
 
-disablePathToLower = true
+disableKinds = ["taxonomyTerm"]
 
 [params]
     author = "Carson Seese"
-    info = "Student studying Cybersecurity, Certified Button Presser and Cable Plugger"
-    description = "Student studying Cybersecurity, Certified Button Presser and Cable Plugger"
-    keywords = "developer,personal,about"
+    info = "Cybersecurity Student, Certified Button Presser and Cable Plugger"
+    description = "Cybersecurity Student"
+    keywords = "Developer, Profile, Security, Programming"
     avatarurl = "images/avatar.jpg"
 
     dateformat = "January 2, 2006"
@@ -28,16 +28,11 @@ disablePathToLower = true
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    #footercontent = ""
-
     hidecredits = true
     hidecopyright = false
 
     rtl = false
-
     math = false
-    #custom_css = ["css/custom.css"]
-
 
 # Social links
 [[params.social]]
