@@ -19,7 +19,7 @@ disableKinds = ["taxonomyTerm"]
     author = "Carson Seese"
     info = "Cybersecurity Student, Certified Button Presser and Cable Plugger"
     description = "Cybersecurity Student"
-    keywords = "Developer, Profile, Security, Programming"
+    keywords = "Developer,Profile,Security,Programming"
     avatarurl = "images/avatar.jpg"
 
     dateformat = "January 2, 2006"

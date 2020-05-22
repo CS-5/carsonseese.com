@@ -4,7 +4,7 @@ date: 2020-01-19T21:48:27Z
 draft: false
 description: "My name is Carson Seese. I am a 20 year-old-student, tech enthusiast, homelabber,
 and tinkerer (Doubtful that's a word, but we'll go for it)."
-keywords: "About,PennTech,Java,Go,GitHub,BSides"
+keywords: "About,PennTech,Java,Go,GitHub,BSides,Homelab"
 ---
 
 # ~$ whoami
