@@ -14,7 +14,7 @@ here's my TLDR, but feel free to keep scrolling if you're curious.
 
 ## TLDR
 
-- Sophomore at the Pennsylvania College of Technology studying Information Assurance and Cybersecurity
+- Junior at the Pennsylvania College of Technology studying Information Assurance and Cybersecurity
 - CompTIA A+, Network+, and Security+ Certified
 - [Co-Presented at BSides DC 2019 _"Hands on Writing Malware in Go"_](https://gist.github.com/CS-5/c251f173e1e8ddd46c1b020427cb239b)
 - Operate my own homelab currently residing in my parent's basement
@@ -27,8 +27,8 @@ I'm 95% (more or less) self-taught when it comes to programming, so there is sti
 a lot I have to learn. Nevertheless, the languages I have experience with are rated
 from highest to lowest for anyone who's curious.
 
-- Java
 - Go
+- Java
 - LabVIEW
 - JavaScript
 - Python
@@ -53,8 +53,6 @@ unfortunately.
   - A basic Go library I wrote for the BSides presentation which generates domains in a predictable fashion.
 - [exfil2dns](https://github.com/CS-5/exfil2dns)
   - Another basic Go library also for BSides which takes data, chunks it, and sends it out in the form of DNS queries.
-- [disgomux](https://github.com/CS-5/disgomux)
-  - A somewhat funky multiplexer for [discordgo](https://github.com/bwmarrin/discordgo). It's not perfect, but it works.
 - [GoElsewhere](https://github.com/CS-5/GoElsewhere)
   - Ever wanted to self-host a URL shortener (basiclly a HTTP redirector with a fancy UI)? Well now you can! _(There's obviously still a lot of work to be done)_
 - [.dotfiles](https://github.com/CS-5/.dotfiles)
