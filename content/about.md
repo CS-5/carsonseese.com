@@ -8,7 +8,7 @@ keywords: "About,PennTech,Java,Go,GitHub,BSides,Homelab"
 
 # ~$ whoami
 
-My name is Carson Seese. I am a 20 year-old-student, tech enthusiast, [homelabber](https://www.reddit.com/r/homelab/wiki/introduction),
+My name is Carson Seese. I am a 21 year-old-student, tech enthusiast, [homelabber](https://www.reddit.com/r/homelab/wiki/introduction),
 and tinkerer (Doubtful that's a word, but we'll go for it). To save everyone time, 
 here's my TLDR, but feel free to keep scrolling if you're curious.
 
@@ -29,6 +29,7 @@ from highest to lowest for anyone who's curious.
 
 - Go
 - Java
+- TypeScript
 - LabVIEW
 - JavaScript
 - Python
