@@ -11,8 +11,6 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-37159206-9"
-
 disableKinds = ["taxonomyTerm"]
 
 [params]
