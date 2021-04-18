@@ -28,10 +28,10 @@ a lot I have to learn. Nevertheless, the languages I have experience with are ra
 from highest to lowest for anyone who's curious.
 
 - Go
-- Java
 - TypeScript
-- LabVIEW
+- Java
 - JavaScript
+- LabVIEW
 - Python
 - Bash/Shell Scripting
 
