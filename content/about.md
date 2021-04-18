@@ -2,14 +2,14 @@
 title: "About"
 date: 2020-01-19T21:48:27Z
 draft: false
-description: "My name is Carson Seese. I am a 20 year-old-student, tech enthusiast, homelabber, and tinkerer."
+description: "My name is Carson Seese. I am a 21 year-old-student, tech enthusiast, homelabber, and tinkerer."
 keywords: "About,PennTech,Java,Go,GitHub,BSides,Homelab"
 ---
 
 # ~$ whoami
 
 My name is Carson Seese. I am a 21 year-old-student, tech enthusiast, [homelabber](https://www.reddit.com/r/homelab/wiki/introduction),
-and tinkerer (Doubtful that's a word, but we'll go for it). To save everyone time, 
+and tinkerer (Doubtful that's a word, but we'll go for it). To save everyone time,
 here's my TLDR, but feel free to keep scrolling if you're curious.
 
 ## TLDR
@@ -35,11 +35,10 @@ from highest to lowest for anyone who's curious.
 - Python
 - Bash/Shell Scripting
 
-
 # Homelab
 
 This wouldn't be a proper "About" page if it didn't at some point mention what it's
-being hosted on. Although I'm not necessarily pursuing a field in network 
+being hosted on. Although I'm not necessarily pursuing a field in network
 infrastructure, one might say tinkering with servers, switches, and cables is a
 hobby of mine. A somewhat outdated post about my homelab can be found [here](https://blog.carsonseese.com/homelab-v1-0-0/),
 with a more updated plan of how I planned on upgrading the network [here](https://blog.carsonseese.com/homelab-v2-the-network-upgrade/)
@@ -66,17 +65,17 @@ I started getting interested in programming right around the time Minecraft star
 to gain popularity. This popularity drove me to start learning Java and tinkering
 with Git and GitHub, all of which were mind blowing to me at the time.
 
-Not much later in 2013, I joined a high school robotics team which operated as a 
-club in my local 4-H chapter. This expierence really helped put my programming 
-and teamwork skills to the test as I rapidly began developing my growing skillset. 
-I worked my way through the ranks on my team holding positions such as lead 
-programmer and media manager, until I eventually became the team captain in 2018 
+Not much later in 2013, I joined a high school robotics team which operated as a
+club in my local 4-H chapter. This expierence really helped put my programming
+and teamwork skills to the test as I rapidly began developing my growing skillset.
+I worked my way through the ranks on my team holding positions such as lead
+programmer and media manager, until I eventually became the team captain in 2018
 (my last year on the team).
 
 Fall of 2016 I enrolled at the Franklin County Career and Technology Center
 studying Information Systems Technology. Our coursework was taught to CompTIA's
 A+ and Network+ certifications, as well as Cisco's CCNA. While at the FCCTC, I
-performed many service calls throughout the school and learned a lot about 
+performed many service calls throughout the school and learned a lot about
 "enterprise" networking. While a student, I managed to get a sumemr job as a Jr.
 System Administrator at the FCCTC where I did everything from installing Windows
 on new computers to cabling installations to basic hardware and software
@@ -88,7 +87,7 @@ the Pennsylvania College of Technology's Information Assurance and Cybersecurity
 program in which I am currently a sophmore.
 
 Summer of 2019 I had the opportunity to intern at IronNet, a cybersecurity firm
-specializing in defense of entire networks. While at IronNet I had a chance to 
+specializing in defense of entire networks. While at IronNet I had a chance to
 write a basic network auditing CLI tool in Go, which really helped some basic
 programming fundamentals I had missed in years prior finally click. In the process
 of writing my tool, the opportunity to co-present at a security conference was
