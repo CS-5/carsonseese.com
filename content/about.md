@@ -2,19 +2,18 @@
 title: "About"
 date: 2020-01-19T21:48:27Z
 draft: false
-description: "My name is Carson Seese. I am a 21 year-old-student, tech enthusiast, homelabber, and tinkerer."
+description: "My name is Carson Seese. I am a 22 year-old-student, tech enthusiast, homelabber, and tinkerer."
 keywords: "About,PennTech,Java,Go,GitHub,BSides,Homelab"
 ---
 
 # ~$ whoami
 
-My name is Carson Seese. I am a 21 year-old-student, tech enthusiast, [homelabber](https://www.reddit.com/r/homelab/wiki/introduction),
-and tinkerer (Doubtful that's a word, but we'll go for it). To save everyone time,
-here's my TLDR, but feel free to keep scrolling if you're curious.
+My name is Carson Seese. I am a 22 year-old-student, tech enthusiast, [homelabber](https://www.reddit.com/r/homelab/wiki/introduction),
+and tinkerer. To save everyone time, here's my TLDR, but feel free to keep scrolling if you're curious.
 
 ## TLDR
 
-- Junior at the Pennsylvania College of Technology studying Information Assurance and Cybersecurity
+- Senior at the Pennsylvania College of Technology studying Information Assurance and Cybersecurity
 - CompTIA A+, Network+, and Security+ Certified
 - [Co-Presented at BSides DC 2019 _"Hands on Writing Malware in Go"_](https://gist.github.com/CS-5/c251f173e1e8ddd46c1b020427cb239b)
 - Operate my own homelab currently residing in my parent's basement
@@ -28,11 +27,9 @@ a lot I have to learn. Nevertheless, the languages I have experience with are ra
 from highest to lowest for anyone who's curious.
 
 - Go
-- TypeScript
-- Java
-- JavaScript
-- LabVIEW
+- TypeScript/Javascript
 - Python
+- Java
 - Bash/Shell Scripting
 
 # Homelab
@@ -54,7 +51,7 @@ unfortunately.
 - [exfil2dns](https://github.com/CS-5/exfil2dns)
   - Another basic Go library also for BSides which takes data, chunks it, and sends it out in the form of DNS queries.
 - [GoElsewhere](https://github.com/CS-5/GoElsewhere)
-  - Ever wanted to self-host a URL shortener (basiclly a HTTP redirector with a fancy UI)? Well now you can! _(There's obviously still a lot of work to be done)_
+  - Ever wanted to self-host a URL shortener (basically a HTTP redirector with a fancy UI)? Well now you can! _(There's obviously still a lot of work to be done)_
 - [.dotfiles](https://github.com/CS-5/.dotfiles)
   - A collection of my personal dotfiles. I don't necessarily recommend copying these, but if you have any suggestions or examples, feel free to make a PR! I am still new to vim and tmux.
 
