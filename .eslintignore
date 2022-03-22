@@ -1,0 +1,5 @@
+node_modules
+dist
+transpiled
+tailwind.config.js
+postcss.config.js
