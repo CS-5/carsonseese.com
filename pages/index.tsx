@@ -19,7 +19,7 @@ export default function Index(): ReactNode {
       />
 
       <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-Q4NX310Y8P"
+        src="https://www.googletagmanager.com/gtag/js?id=G-608FXHT6HS"
         strategy="worker"
         async
       />
@@ -28,7 +28,7 @@ export default function Index(): ReactNode {
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-Q4NX310Y8P');`}
+        gtag('config', 'G-608FXHT6HS');`}
       </Script>
 
       <div className="overflow-auto">
