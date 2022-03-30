@@ -68,7 +68,6 @@ export default function Index(): ReactNode {
                   <a
                     className="link"
                     href="https://github.com/cs-5"
-                    data-tippy-content="@github_handle"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -85,7 +84,6 @@ export default function Index(): ReactNode {
                   <a
                     className="link"
                     href="https://twitter.com/carsons_5"
-                    data-tippy-content="@twitter_handle"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -97,6 +95,22 @@ export default function Index(): ReactNode {
                     >
                       <title>Twitter</title>
                       <path d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z" />
+                    </svg>
+                  </a>
+                  <a
+                    className="link"
+                    href="https://www.linkedin.com/in/carsonseese/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <svg
+                      className="h-6 fill-current text-gray-600 hover:text-sky-900 pl-4"
+                      role="img"
+                      viewBox="0 0 448 512"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <title>LinkedIn</title>
+                      <path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" />
                     </svg>
                   </a>
                   {/*
