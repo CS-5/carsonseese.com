@@ -1,6 +1,5 @@
 import Head from "next/head";
 import { ReactNode } from "react";
-import Script from "next/script";
 
 export default function Index(): ReactNode {
   return (
@@ -11,24 +10,6 @@ export default function Index(): ReactNode {
         <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
         <title>Carson Seese</title>
       </Head>
-
-      <Script
-        src="https://static.cloudflareinsights.com/beacon.min.js"
-        strategy="worker"
-        data-cf-beacon='{"token": "322ce85ef96346afb3e117497899585e"}'
-      />
-
-      <Script
-        strategy="worker"
-        src="https://www.googletagmanager.com/gtag/js?id=G-608FXHT6HS"
-      ></Script>
-      <Script id="gtag" strategy="worker">
-        {`window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-608FXHT6HS');`}
-      </Script>
 
       <div className="overflow-auto">
         <div className="fixed h-full w-full -z-1">
