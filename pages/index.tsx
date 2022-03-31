@@ -51,6 +51,7 @@ export default function Index(): ReactNode {
                   className="block lg:hidden mx-auto -mt-16 rounded-full shadow-xl w-48 h-48 object-cover"
                   src="/image/portrait-cropped.jpg"
                   alt="Carson portrait"
+                  style={{ imageRendering: "-webkit-optimize-contrast" }}
                 />
 
                 <h1 className="text-3xl font-bold pt-8 lg:pt-0">
@@ -160,6 +161,7 @@ export default function Index(): ReactNode {
                 width={1249}
                 height={1837}
                 className="rounded-none lg:rounded-lg shadow-2xl hidden lg:block"
+                style={{ imageRendering: "-webkit-optimize-contrast" }}
               />
             </div>
 
