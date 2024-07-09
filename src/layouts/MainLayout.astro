@@ -1,0 +1,49 @@
+---
+import { AstroFont } from "astro-font";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1"
+    />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <title>Carson Seese</title>
+
+    <AstroFont
+      config={[
+        {
+          name: "Inter",
+          src: [],
+          googleFontsURL:
+            "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap",
+          preload: true,
+          display: "swap",
+          selector: "body",
+          fallback: "sans-serif",
+        },
+      ]}
+    />
+
+    <!-- Google Analytics -->
+    <script
+      type="text/partytown"
+      is:inline
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-608FXHT6HS"></script>
+    <script type="text/partytown" is:inline>
+      const dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-608FXHT6HS");
+    </script>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
